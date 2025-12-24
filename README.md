@@ -8,7 +8,7 @@ Designed for simple command-line use and educational or research purposes.
 
 ## About This Project
 
-This code was originally developed by **Dr Jamie J. Alnasir** at the start of his **Ph.D. in Computer Science** (with a focus on **Computational and Molecular Biology**) at **Royal Holloway, University of London**.
+This code was originally developed by **Dr Jamie J. Alnasir** at the start of his **Ph.D. in Computer Science** (**with a focus on Distributed Computing for Large Datasets in Computational and Molecular Biology**) at **Royal Holloway, University of London**.
 
 It forms part of early explorations into classical alignment algorithms and foundational bioinformatics methods, implemented for research and educational use.
 
