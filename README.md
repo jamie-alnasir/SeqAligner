@@ -39,20 +39,20 @@ javac *.java
 
 ## Running
 
-With Two Seqence FASTA files
+Method 1. With Two Seqence FASTA files
 
 ```bash
-java Aligner seq1.fasta seq2.fasta
+java SeqAligner seq1.fasta seq2.fasta
 ```
 
-Without any parameters, i.e. No FASTA files (will use internal sequences):
+Method 2. Without any parameters, i.e. No FASTA files (will use internal sequences, as follows):
 
 Sequence 1 = "ABCNYRCKLCRPMNP";
 Sequence 2 = "AYCYNRCCRBPM";
 
 
 ```bash
-java Aligner
+java SeqAligner
 ```
 
 
